@@ -337,3 +337,4 @@ def multiply[N <: Nat](a: BitVector[N], b: BitVector[N]): BitVector[Add[N, N]] =
 ![w:150](res/scastie-qrcode.png)
 
 - Slide
+![w:150](res/slides-qrcode.png)
